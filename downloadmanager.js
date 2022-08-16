@@ -31,4 +31,4 @@ burninrubber5a = {
 
 console.log("(downloadmanager.js) Data created!");
 
-const downloadArray = [nitrostream, sabotage, sideattack, burninrubber5a];
+const downloadArray = [nitrostream, sabotage, sideattack, burninrubber5a]
