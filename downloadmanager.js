@@ -29,6 +29,8 @@ burninrubber5a = {
      download:  "https://www.mediafire.com/file/sm0e422lu39v04z/Burnin%2527_Rubber_5A_%2528By_Mars%2529.rar/file"
 }
 
+const downloadArray = [nitrostream, sabotage, sideattack, burninrubber5a]
+
 console.log("(downloadmanager.js) Data created!");
 
-const downloadArray = [nitrostream, sabotage, sideattack, burninrubber5a]
+
