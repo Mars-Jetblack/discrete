@@ -14,7 +14,7 @@ template.innerHTML = `
      <div class="header__uptext__containter">
 
      <div class="header__uptext__menu-grid-container">
-     <a href="home.html">
+     <a href="index.html">
      <h1 class="header__uptext__menu-grid-item">DISCRETE</h1>
      </a>
      <a href="nitrostream.html">
